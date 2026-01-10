@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+
+@font-face {
+  font-family: 'ABO';
+  src: url('/ABO.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  src: url('/Gilroy-Regular.ttf') format('truetype');
+}
+
+body{
+    font-family: 'ABO';
+}
